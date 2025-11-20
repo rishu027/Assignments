@@ -1,3 +1,9 @@
+# NAME       - RISHU KUMAR
+# ENROLLMENT - 0157AL231175
+# BATCH      - 5(MTF)
+# BATCH TIME - 10:30 - 12:10
+
+
 import json
 
 # ===============================
