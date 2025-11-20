@@ -27,7 +27,7 @@ def signup():
     users = load_data(USER_FILE)
     username = input("Enter new username: ")
     if username in users:
-        print("❌ Username already exists! Try login instead.")
+        print("Username already exists! Try login instead.")
         return None
     password = input("Enter password: ")
     users[username] = password
